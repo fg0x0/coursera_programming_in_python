@@ -1,2 +1,2 @@
-# coursera_programming_in_python
-Специализация "Программирование на Python"
+# Специализация "Программирование на Python"
+https://www.coursera.org/specializations/programming-in-python
